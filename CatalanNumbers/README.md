@@ -24,9 +24,9 @@ Visual Studio Community [VS 2019](https://visualstudio.microsoft.com/es/vs/).
 
 ## Notes
 
-![Alt text](CatalanNumbers/Recursive_approach.png?raw=true "Recursive approach")
+![Alt text](/CatalanNumbers/Recursive_approach.png?raw=true "Recursive approach")
 
-![Alt text](CatalanNumbers/DP_approach.png?raw=true "DP approach")
+![Alt text](/CatalanNumbers/DP_approach.png?raw=true "DP approach")
 
 
 ## Code Snippet
