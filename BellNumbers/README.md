@@ -17,5 +17,8 @@ __References__
 [[2]](https://en.wikipedia.org/wiki/Bell_number) Bell number, Wikipedia.
 
 ## Notes
+
+Relation of Stirling numbers with Bell numbers.
+
 ![Alt text](/BellNumbers/stirling_bell.png?raw=true "Relationship between Bell number and Stirling numbers")
 
