@@ -1,4 +1,4 @@
-# CA.DP.LongestCommonSubsequence
+# LongestCommonSubsequence
 Solves Longest Common Subsequence problem using Dynamic Programming, length and all subsequences.
 
 It uses three different approaches:
