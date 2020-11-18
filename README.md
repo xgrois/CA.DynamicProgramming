@@ -1,6 +1,6 @@
 # Practising Dynamic Programming
 
-Practicing Dynamic Programming (DP).
+Practising Dynamic Programming (DP).
 
 ## Content
 
@@ -10,7 +10,9 @@ Practicing Dynamic Programming (DP).
 
 [[3]](/CatalanNumbers) Catalan numbers.
 
-[[4]](/LongestCommonSubsequence) Longest Common Subsequence(s).
+[[4]](/BellNumbers) Bell and Stirling numbers.
+
+[[5]](/LongestCommonSubsequence) Longest Common Subsequence(s).
 
 ## Language
 C#
