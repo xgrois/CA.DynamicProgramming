@@ -1,11 +1,5 @@
 ﻿# Catalan Numbers
 
-__Objective__
-
-Practicing Dynamic Programming (DP).
-
-__About__
-
 Use DP to solve catalan independentist numbers.
 Implements the recursive version for comparison.
 
@@ -16,11 +10,6 @@ __Complexity__
 __References__
 
 [[1]](https://en.wikipedia.org/wiki/Catalan_number) Catalan number, Wikipedia.
-
-__IDE__
-
-Visual Studio Community [VS 2019](https://visualstudio.microsoft.com/es/vs/).
-
 
 ## Notes
 
@@ -52,6 +41,3 @@ Visual Studio Community [VS 2019](https://visualstudio.microsoft.com/es/vs/).
 
 ## Some Thoughts
 Need to use BigInteger data types since catalan numbers grow large pretty fast.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
