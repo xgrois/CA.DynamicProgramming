@@ -4,7 +4,11 @@ Practicing Dynamic Programming (DP).
 
 ## Content
 
-[[1]](/CatalanNumbers) Catalan numbers.
+[[1]](/FibonacciNumbers) Fibonacci numbers.
+
+[[2]](/UglyNumbers) Ugly numbers.
+
+[[3]](/CatalanNumbers) Catalan numbers.
 
 ## Language
 C#
