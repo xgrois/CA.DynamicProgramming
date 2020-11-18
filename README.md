@@ -10,6 +10,8 @@ Practicing Dynamic Programming (DP).
 
 [[3]](/CatalanNumbers) Catalan numbers.
 
+[[4]](/LongestCommonSubsequence) Longest Common Subsequence(s).
+
 ## Language
 C#
 
