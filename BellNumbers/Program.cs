@@ -12,9 +12,9 @@ namespace BellNumbers
 
             for (int i = 0; i <= 10; i++)
             {
-                Console.WriteLine($"Bell({i}) --> {BellDP(i)}");
+                Console.WriteLine($"Bell({i}) --> {BellStirling(i)}");
             }
-            
+
 
         }
 
@@ -25,12 +25,10 @@ namespace BellNumbers
         /// </summary>
         /// <param name="n">nth number in Bell sequence</param>
         /// <returns></returns>
-        static BigInteger BellDP(int n)
+        static BigInteger BellStirling(int n)
         {
             List<BigInteger> prevRow = new List<BigInteger>();
             List<BigInteger> currRow = new List<BigInteger>();
-
-            if (n == 0 || n == 1) return 1;
 
             // Progressively compute Stirling rows
             // Only two lists are needed (prev row, current row)
@@ -54,7 +52,7 @@ namespace BellNumbers
                 // if I just copy all values in a loop
                 // However I overrite all values I can during
                 // previous loop so now I only need to copy last values
-                prevRow[k-1] = currRow[k-1];
+                prevRow[k - 1] = currRow[k - 1];
                 prevRow.Add(1);
 
                 // Now that prevRow has currentRow values
@@ -70,7 +68,35 @@ namespace BellNumbers
             return b;
         }
 
-    }
+        /// <summary>
+        /// Bell number using bottom-up Dynamic Programming.
+        /// It is based on the recurrence relation using Bell triangle
+        /// </summary>
+        /// <param name="n">nth number in Bell sequence</param>
+        /// <returns></returns>
+        static BigInteger BellAitken(int n)
+        {
 
+            List<BigInteger> prevRow = new List<BigInteger>();
+            List<BigInteger> currRow = new List<BigInteger>();
+
+            prevRow.Add(1);
+            int last = 0;
+            for (int i = 2; i <= n; i++)
+            {
+                currRow.Add(prevRow[last++]);
+                for (int j = 1; j <= i - 1; j++)
+                    currRow.Add(prevRow[j - 1] + currRow[j - 1]);
+
+                prevRow.Add(0);
+                for (int k = 0; k < i; k++)
+                    prevRow[k] = currRow[k];
+
+                currRow.Clear();
+
+            }
+            return prevRow[last];
+        }
+    }
 
 }
