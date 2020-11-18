@@ -5,6 +5,8 @@ This is due to the following recurrence:
 
 B(n) = sum_{k = 0}^{n} S(n,k)
 
+The code also includes the calculation using the Bell triangle.
+
 __Complexity__
 * DP version: polinomial.
 
