@@ -4,7 +4,7 @@ Practicing Dynamic Programming (DP).
 
 ## Content
 
-[[1]](/CatalanNumber) Catalan numbers.
+[[1]](/CatalanNumbers) Catalan numbers.
 
 ## Language
 C#
