@@ -1,0 +1,56 @@
+﻿# Catalan Numbers
+
+__Objective__
+
+Practicing Dynamic Programming (DP).
+
+__About__
+
+Use DP to solve catalan independentist numbers.
+Implements the recursive version for comparison.
+
+__Complexity__
+* DP version: polinomial.
+* Recursive: exponential.
+
+__References__
+
+[[1]](https://en.wikipedia.org/wiki/Catalan_number) Catalan number, Wikipedia.
+
+__IDE__
+
+Visual Studio Community [VS 2019](https://visualstudio.microsoft.com/es/vs/).
+
+
+## Notes
+
+![Alt text](/Recursive_approach.png?raw=true "Recursive approach")
+
+![Alt text](/DP_approach.png?raw=true "DP approach")
+
+## Code Snippet
+
+```c#
+        static BigInteger CatalanDynamicProgramming(int n)
+        {
+            BigInteger[] c = new BigInteger[n + 1];
+
+            c[0] = 1;
+
+            for (int k = 1; k <= n; k++)
+            {
+                for (int i = 0; i <= k - 1; i++)
+                {
+                    c[k] += c[i] * c[k - 1 - i];
+                }
+            }
+            return c[n];
+
+        }
+```
+
+## Some Thoughts
+Need to use BigInteger data types since catalan numbers grow large pretty fast.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

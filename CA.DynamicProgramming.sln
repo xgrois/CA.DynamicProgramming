@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UglyNumbers", "UglyNumbers\UglyNumbers.csproj", "{8AFCFDBD-218E-4DE5-8445-647FB4C4758C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UglyNumbers", "UglyNumbers\UglyNumbers.csproj", "{8AFCFDBD-218E-4DE5-8445-647FB4C4758C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "..\FibonacciNumbers\FibonacciNumbers.csproj", "{81D60AB5-3CDD-40F1-A099-602CA7CE9834}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalanNumbers", "CatalanNumbers\CatalanNumbers.csproj", "{906C14D4-B501-4BBE-BFD1-BDA639FB1F8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalanNumbers", "..\CatalanNumbers\CatalanNumbers.csproj", "{3C65B435-5A47-485A-B943-A2CC608830F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{09C42D66-8B18-43C4-8E18-BC8D7CB6D955}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{8AFCFDBD-218E-4DE5-8445-647FB4C4758C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFCFDBD-218E-4DE5-8445-647FB4C4758C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AFCFDBD-218E-4DE5-8445-647FB4C4758C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81D60AB5-3CDD-40F1-A099-602CA7CE9834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81D60AB5-3CDD-40F1-A099-602CA7CE9834}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81D60AB5-3CDD-40F1-A099-602CA7CE9834}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81D60AB5-3CDD-40F1-A099-602CA7CE9834}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C65B435-5A47-485A-B943-A2CC608830F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C65B435-5A47-485A-B943-A2CC608830F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C65B435-5A47-485A-B943-A2CC608830F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C65B435-5A47-485A-B943-A2CC608830F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906C14D4-B501-4BBE-BFD1-BDA639FB1F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906C14D4-B501-4BBE-BFD1-BDA639FB1F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906C14D4-B501-4BBE-BFD1-BDA639FB1F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906C14D4-B501-4BBE-BFD1-BDA639FB1F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C42D66-8B18-43C4-8E18-BC8D7CB6D955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C42D66-8B18-43C4-8E18-BC8D7CB6D955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C42D66-8B18-43C4-8E18-BC8D7CB6D955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C42D66-8B18-43C4-8E18-BC8D7CB6D955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
