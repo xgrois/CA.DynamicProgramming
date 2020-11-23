@@ -14,6 +14,8 @@ Practising Dynamic Programming (DP).
 
 [[5]](/LongestCommonSubsequence) Longest Common Subsequence(s).
 
+[[6]](/LongestIncreasingSubsequence) Longest Increasing Subsequence.
+
 ## Language
 C#
 
