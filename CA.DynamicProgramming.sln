@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BellNumbers", "BellNumbers\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{F7D4DA72-E582-4D4E-ACFC-239777BC7332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSequence.UTest", "LongestIncreasingSequence.UTest\LongestIncreasingSequence.UTest.csproj", "{84363FEB-A997-4114-A918-7DFC63EF931A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSequence.UTest", "LongestIncreasingSequence.UTest\LongestIncreasingSequence.UTest.csproj", "{84363FEB-A997-4114-A918-7DFC63EF931A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditDistance", "EditDistance\EditDistance.csproj", "{DDDEC228-F6E1-4687-8177-94335F54D484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{84363FEB-A997-4114-A918-7DFC63EF931A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84363FEB-A997-4114-A918-7DFC63EF931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84363FEB-A997-4114-A918-7DFC63EF931A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDEC228-F6E1-4687-8177-94335F54D484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDEC228-F6E1-4687-8177-94335F54D484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDEC228-F6E1-4687-8177-94335F54D484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDEC228-F6E1-4687-8177-94335F54D484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
