@@ -59,3 +59,6 @@ __Recursive solution (backwards)__
 
         }
 ```
+## Some Notes
+
+![Alt text](/EditDistance/example.png?raw=true "Notes")
