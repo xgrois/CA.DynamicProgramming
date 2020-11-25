@@ -16,6 +16,8 @@ Practising Dynamic Programming (DP).
 
 [[6]](/LongestIncreasingSubsequence) Longest Increasing Subsequence.
 
+[[7]](/EditDistance) Edit Distance.
+
 ## Language
 C#
 
