@@ -17,7 +17,7 @@ __References__
 [[1]](https://en.wikipedia.org/wiki/Edit_distance) Edit distance, Wikipedia.
 
 ## Some Thoughts
-This problem is considered Hard.
+This problem is considered Hard in literature.
 
 As always, it is very important to derive the recursive solution first.
 The recursive solution paves the way to the DP solution (either by memoization or tabulation).
