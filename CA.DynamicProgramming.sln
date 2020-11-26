@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSubsequenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSequence.UTest", "LongestIncreasingSequence.UTest\LongestIncreasingSequence.UTest.csproj", "{84363FEB-A997-4114-A918-7DFC63EF931A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditDistance", "EditDistance\EditDistance.csproj", "{DDDEC228-F6E1-4687-8177-94335F54D484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditDistance", "EditDistance\EditDistance.csproj", "{DDDEC228-F6E1-4687-8177-94335F54D484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitionSum", "PartitionSum\PartitionSum.csproj", "{81E74EED-078C-4894-B7DE-2C004E20ADED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{DDDEC228-F6E1-4687-8177-94335F54D484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDDEC228-F6E1-4687-8177-94335F54D484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDDEC228-F6E1-4687-8177-94335F54D484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E74EED-078C-4894-B7DE-2C004E20ADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E74EED-078C-4894-B7DE-2C004E20ADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E74EED-078C-4894-B7DE-2C004E20ADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E74EED-078C-4894-B7DE-2C004E20ADED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
