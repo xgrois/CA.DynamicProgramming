@@ -18,6 +18,8 @@ Practising Dynamic Programming (DP).
 
 [[7]](/EditDistance) Edit Distance.
 
+[[8]](/PartitionSum) Partition (sum) problem.
+
 ## Language
 C#
 
