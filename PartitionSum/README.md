@@ -92,8 +92,6 @@ Instead of going up to SUM, it just goes up to TARGET = SUM/2, since all those l
                 }
             }
 
-            Print(DP);
-
             return DP[vL, 0];
         }
 ```
