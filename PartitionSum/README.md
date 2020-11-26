@@ -96,3 +96,6 @@ Instead of going up to SUM, it just goes up to TARGET = SUM/2, since all those l
         }
 ```
 
+## Output example
+
+![Alt text](/PartitionSum/output.JPG?raw=true "Output")
