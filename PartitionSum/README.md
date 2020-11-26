@@ -16,7 +16,7 @@ This problem is considered Medium in literature.
 
 As always, it is very important to derive the recursive solution first.
 The recursive solution paves the way to the DP solution (either by memoization or tabulation).
-In this problem, the backwards recursive solution gives you all the hints you need to build the DP table.
+In this problem, the recursive solution gives you all the hints you need to build the DP table.
 
 However, it is very important to be careful with indexes in the recursive solution that will 
 facilitate to transform it to the DP solution (otherwise it is a nightmare).
