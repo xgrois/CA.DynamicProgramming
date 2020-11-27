@@ -39,4 +39,4 @@ DP[i,j] = min( DP[i - 1, j] , DP[i - 1, j - w[i - 1]] ) // if (j - w[i - 1] < 0)
 
 ## Output example
 
-![Alt text](/PartitionSum/output.jpg?raw=true "Output")
+![Alt text](/Knapsack/output.jpg?raw=true "Output")
