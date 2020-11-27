@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSequence.U
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditDistance", "EditDistance\EditDistance.csproj", "{DDDEC228-F6E1-4687-8177-94335F54D484}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitionSum", "PartitionSum\PartitionSum.csproj", "{81E74EED-078C-4894-B7DE-2C004E20ADED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartitionSum", "PartitionSum\PartitionSum.csproj", "{81E74EED-078C-4894-B7DE-2C004E20ADED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack", "Knapsack\Knapsack.csproj", "{70ECEF01-0C42-458C-9075-6560C6E97B79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{81E74EED-078C-4894-B7DE-2C004E20ADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81E74EED-078C-4894-B7DE-2C004E20ADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81E74EED-078C-4894-B7DE-2C004E20ADED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70ECEF01-0C42-458C-9075-6560C6E97B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70ECEF01-0C42-458C-9075-6560C6E97B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70ECEF01-0C42-458C-9075-6560C6E97B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70ECEF01-0C42-458C-9075-6560C6E97B79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
