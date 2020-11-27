@@ -20,6 +20,8 @@ Practising Dynamic Programming (DP).
 
 [[8]](/PartitionSum) Partition (sum) problem.
 
+[[9]](/Knapsack) 0-1 Knapsack problem.
+
 ## Language
 C#
 
