@@ -9,7 +9,7 @@ __Difficulty in literature__
 This problem is considered Medium in literature.
 
 __Complexity__
-* DP version (tabular): linear O(n).
+* DP version (tabular): polynomial O(n x n).
 
 __References__
 

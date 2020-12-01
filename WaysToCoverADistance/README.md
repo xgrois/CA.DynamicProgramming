@@ -18,6 +18,8 @@ I spent some time thinking in the recursive way but no success.
 However, I was confident that the recurrence relation can be derived directly.
 Thus, I made a spreadsheet for deriving it graphically and to illustrate the concept clearly.
 
+Check below spreadsheet [here](https://docs.google.com/spreadsheets/d/1vCoQgzxHOoeWPAik4OKMYiuIVmDbHiewXW0xngnhxCs/edit?usp=sharing)
+
 ![Alt text](/WaysToCoverADistance/notes.JPG?raw=true "Notes")
 
 __Recurrence relation:__
