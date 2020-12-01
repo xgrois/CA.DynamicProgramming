@@ -21,6 +21,7 @@ Thus, I made a spreadsheet for deriving it graphically and to illustrate the con
 ![Alt text](/WaysToCoverADistance/notes.JPG?raw=true "Notes")
 
 __Recurrence relation:__
+
 <img src="https://render.githubusercontent.com/render/math?math=F(n) = F(n-1) + F(n-2) + F(n-3)">
 
 ## Output example
