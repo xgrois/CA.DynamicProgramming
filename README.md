@@ -22,6 +22,8 @@ Practising Dynamic Programming (DP).
 
 [[9]](/Knapsack) 0-1 Knapsack problem.
 
+[[10]](/WaysToCoverADistance) Ways to cover a distance in steps of 1, 2, 3.
+
 ## Language
 C#
 
