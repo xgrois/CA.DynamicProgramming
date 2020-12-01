@@ -22,7 +22,7 @@ Thus, I made a spreadsheet for deriving it graphically and to illustrate the con
 
 __Recurrence relation:__
 
-<img src="https://render.githubusercontent.com/render/math?math=F(n) = F(n-1) + F(n-2) + F(n-3)">
+<img src="https://render.githubusercontent.com/render/math?math=F(n) = F(n-1) %2B F(n-2) %2B F(n-3)">
 
 ## Output example
 
