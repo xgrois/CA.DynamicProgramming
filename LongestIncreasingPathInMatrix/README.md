@@ -60,9 +60,10 @@ This idea is reflected in code as follows:
             // Process Right
             ...
             // Process Down
+```
 
-´´´
+## LeetCode results
 
-## Output example
+My code has been tested against LeetCode database and below are the results:
 
-![Alt text](/LongestIncreasingPathInMatrix/output.JPG?raw=true "Output")
+![Alt text](/LongestIncreasingPathInMatrix/letcode_result.JPG?raw=true "LeetCode")
