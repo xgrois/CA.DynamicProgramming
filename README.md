@@ -24,7 +24,8 @@ Practising Dynamic Programming (DP).
 
 [[10]](/WaysToCoverADistance) Ways to cover a distance in steps of 1, 2, 3.
 
-[[11]](/MatrixLongestIncreasingPath) Length of longest +1 increasing path in an NxN matrix.
+[[11]](/LongestIncreasingPathInMatrix) Length of longest increasing path in a matrix.
+
 
 ## Language
 C#
