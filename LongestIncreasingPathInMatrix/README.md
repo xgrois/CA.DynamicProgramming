@@ -11,9 +11,13 @@ __Difficulty in literature__
 
 This problem is considered Hard in literature.
 
-__Complexity__
+__Runtime Complexity__
 
-* DP version (tabular): less than exponential
+* DP version (tabular): polynomial
+
+__Space Complexity__
+
+* DP version (tabular): we just need the input matrix and another matrix of the same size (dp).
 
 __References__
 
