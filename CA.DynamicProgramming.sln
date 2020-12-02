@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaysToCoverADistance", "Way
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixLongestIncreasingPath", "MatrixLongestIncreasingPath\MatrixLongestIncreasingPath.csproj", "{9320BEC1-83D9-4398-B60B-68DCE08F93B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingPathInMatrix", "LongestIncreasingPathInMatrix\LongestIncreasingPathInMatrix.csproj", "{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9320BEC1-83D9-4398-B60B-68DCE08F93B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9320BEC1-83D9-4398-B60B-68DCE08F93B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9320BEC1-83D9-4398-B60B-68DCE08F93B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
