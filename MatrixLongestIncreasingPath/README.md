@@ -6,6 +6,7 @@ Given an NxN matrix with all entries different,
 calculate the longest path where a path is defined as a strictly + 1 increasing sequence.
 
 __Difficulty in literature__
+
 This problem is considered Medium in literature.
 
 __Complexity__
