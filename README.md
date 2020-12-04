@@ -28,6 +28,8 @@ Practising Dynamic Programming (DP).
 
 [[12]](/LongestIncreasingPathInMatrix) Length of longest increasing path in a matrix.
 
+[[13]](/SumSet) Sum set problem.
+
 
 ## Language
 C#
