@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaysToCoverADistance", "Way
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixLongestIncreasingPath", "MatrixLongestIncreasingPath\MatrixLongestIncreasingPath.csproj", "{9320BEC1-83D9-4398-B60B-68DCE08F93B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingPathInMatrix", "LongestIncreasingPathInMatrix\LongestIncreasingPathInMatrix.csproj", "{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingPathInMatrix", "LongestIncreasingPathInMatrix\LongestIncreasingPathInMatrix.csproj", "{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSet", "SumSet\SumSet.csproj", "{1B6660B2-9CCF-4FB3-9424-BF1A59A5952A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8BDCE9-E674-4B7A-A270-AAB109DE5CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6660B2-9CCF-4FB3-9424-BF1A59A5952A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6660B2-9CCF-4FB3-9424-BF1A59A5952A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6660B2-9CCF-4FB3-9424-BF1A59A5952A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6660B2-9CCF-4FB3-9424-BF1A59A5952A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
