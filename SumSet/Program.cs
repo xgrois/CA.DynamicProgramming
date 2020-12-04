@@ -9,7 +9,7 @@ namespace SumSet
             Console.WriteLine("::: Sum set problem :::");
 
             int sum = 3;
-            int[] set = new int[] { 3, 7};
+            int[] set = new int[] { 3, 7 };
             if (Solution.Solve(set, sum))
                 Console.WriteLine($"YES");
             else Console.WriteLine($"NO");
